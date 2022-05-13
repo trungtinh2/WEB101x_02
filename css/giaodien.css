@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;500&display=swap');
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.logo {
+    border-radius: 50%;
+}
+
+.header {
+    background-color: rgba(90, 44, 75, 0.9) !important;
+}
+
+.nav li a {
+    color: black!important;
+    text-transform: uppercase;
+}
+
+.nav li a:hover {
+    color: blue!important;
+}
+
+.nhan {
+    margin-right: 100px;
+    border-radius: 10%;
+    background-color: whitesmoke;
+}
+
+main {
+    margin-top: 5%;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.list-dl li {
+    text-transform: capitalize;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.dia-chi li {
+    font-size: 20px!important;
+    font-weight: 400;
+}
+
+.list-dl p {
+    font-size: 20px;
+}
+
+.tong-quan a:hover {
+    color: brown;
+}
+
+.tong-quan a {
+    text-transform: capitalize;
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.hanoi img {
+    border-radius: 10%;
+}
+
+.danang img {
+    border-radius: 10%;
+}
+
+.saigon img {
+    border-radius: 10%;
+}
+
+.nhatrang img {
+    border-radius: 10%;
+}
+
+.video {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+.name input {
+    width: 70%;
+}
+
+.email {
+    text-align: center;
+}
+
+.email input {
+    width: 70%;
+}
+
+.comment {
+    margin-top: 30px;
+}
+
+.list a {
+    text-decoration: none;
+    color: black;
+}
+
+.list a:hover {
+    color: blue
+}
+
+footer {
+    margin-top: 5%;
+    background-color: #1a2948;
+    color: blanchedalmond;
+}
